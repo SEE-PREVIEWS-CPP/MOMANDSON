@@ -163,7 +163,7 @@ const products = [
   },
   {
     title: "HIGH SCHOOL TEEN",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/6.mp4",
+    video: "https://media.hotflixx.app/v/UCbpujCX.mp4",
     desc: "HIGH SCHOOL MORE THAN 35GB.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -345,7 +345,7 @@ const products = [
   },
   {
     title: "IZZY ZOO",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/19.mp4",
+    video: "https://media.hotflixx.app/v/yZBd7RMd.mp4",
     desc: "MEGA PACK IZZY AND DOG – 80GB.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -415,7 +415,7 @@ const products = [
   },
   {
     title: "CP FATHER DAUGHTER",
-    video: "https://nastystuffher.pages.dev/assets/videos/24.mp4",
+    video: "https://media.hotflixx.app/v/df7wrhZP.mp4",
     desc: "GOLD EDITION – 60GB OF RARE CP CONTENT.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -457,7 +457,7 @@ const products = [
   },
   {
     title: "AXIOUS PANDA",
-    video: "https://nastystuffher.pages.dev/assets/videos/27.mp4",
+    video: "https://videotourl.com/videos/1788788328439-edb6706d-2cc5-426d-8d7b-1ca5da638562.mp4",
     desc: "500GB MEGA PACK – ALL TEENS, CP, VIP, AND MORE.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -471,7 +471,7 @@ const products = [
   },
   {
     title: "BLOWJOB",
-    video: "https://nastystuffher.pages.dev/assets/videos/29.mp4",
+    video: "https://media.hotflixx.app/v/ULRZa5DB.mp4",
     desc: "BUNDLE - BLOWJOB MEGA COLLECTION.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -485,7 +485,7 @@ const products = [
   },
   {
     title: "ANIMAL AND YOUNG GIRLS",
-    video: "https://nastystuffher.pages.dev/assets/videos/30.mp4",
+    video: "https://media.hotflixx.app/v/dEArQEEe.mp4",
     desc: "BUNDLE - ANIMAL AND YOUNG GIRLS ULTIMATE PACK.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -555,7 +555,7 @@ const products = [
   },
   {
     title: "SKI BLACK PYT",
-    video: "https://nastystuffher.pages.dev/assets/videos/35.mp4",
+    video: "https://media.hotflixx.app/v/9Xe4YGSH.mp4",
     desc: "BUNDLE - SKI BLACK PYT RARE FILES.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -583,7 +583,7 @@ const products = [
   },
   {
     title: "BROTHER AND SIS",
-    video: "https://nastystuffher.pages.dev/assets/videos/39.mp4",
+    video: "https://media.hotflixx.app/v/6tcAVNCN.mp4",
     desc: "BUNDLE - BROTHER AND SIS BEST FOLDERS.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -597,7 +597,7 @@ const products = [
   },
   {
     title: "ULTIMATE CP",
-    video: "https://nastystuffher.pages.dev/assets/videos/49.mp4",
+    video: "https://media.hotflixx.app/v/9JKXWVxK.mp4",
     desc: "ULTIMATE CP - COMPLETE COLLECTION.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
